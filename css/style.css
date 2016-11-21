@@ -19,7 +19,7 @@ body {
 }
 #nav a {
 	color: #333;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Hanuman', monospace;
 	font-weight: 300;
 	text-decoration: none;
 	font-size: 16px;
@@ -27,7 +27,7 @@ body {
 	margin: 0 0px 0 80px;
 	letter-spacing: 0.3em;
 }
-#nav a:hover {
+#nav p:hover {
 	border-bottom: 2px solid #000;
 }
 
@@ -58,7 +58,7 @@ body {
 }
 #nav a {
 	color: #333;
-	font-family: 'Lato', sans-serif;
+		font-family: 'Hanuman', monospace;
 	font-weight: 300;
 	text-decoration: none;
 	font-size: 20px;
